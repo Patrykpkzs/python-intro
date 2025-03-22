@@ -1,3 +1,6 @@
 [submodule "linear_functions_lib"]
 	path = linear_functions_lib
 	url = https://github.com/Patrykpkzs/linear_functions_lib
+[submodule "zadanie_3"]
+	path = zadanie_3
+	url = https://github.com/Patrykpkzs/linear_functions_lib
