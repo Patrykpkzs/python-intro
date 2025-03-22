@@ -1,0 +1,3 @@
+[submodule "linear_functions_lib"]
+	path = linear_functions_lib
+	url = https://github.com/Patrykpkzs/linear_functions_lib
