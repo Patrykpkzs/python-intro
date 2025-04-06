@@ -46,8 +46,8 @@ Wagi zostały obliczone automatycznie metodą **entropii**, co oznacza, że wię
 | Hyundai i30      |  1.000000e+00   |  3.544305e-08   |  0  |      1.0       |      1.0       |      1.0      |
 
 ## 🧠 Wnioski
-- Metoda TOPSIS wskazała na __________ jako najbardziej zrównoważoną opcję.
-- SPOTIS zaproponował __________ jako najbliższy ideałowi.
-- VIKOR zasugerował __________ jako kompromisowe rozwiązanie.
+- Metoda TOPSIS wskazała na *Hyundai i30* jako najbardziej zrównoważoną opcję.
+- SPOTIS zaproponował *Hyundai i30* jako najbliższy ideałowi.
+- VIKOR zasugerował *Hyundai i30* jako kompromisowe rozwiązanie.
 
 Różnice w rankingach wynikają z różnych podejść każdej metody do liczenia "odległości" od idealnych rozwiązań. Wagi obliczone metodą entropii faworyzowały np. moc silnika i cenę.
