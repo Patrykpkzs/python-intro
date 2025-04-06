@@ -36,7 +36,7 @@ Wagi zostały obliczone automatycznie metodą **entropii**, co oznacza, że wię
 
 ## 📈 Wyniki
 
-(Wyniki przykładowe — zostaną wygenerowane po uruchomieniu programu)
+(Wyniki spisane po uruchomieniu programu)
 
 | Samochód         | TOPSIS | SPOTIS | VIKOR | TOPSIS Rank | SPOTIS Rank | VIKOR Rank |
 |------------------|--------|--------|-------|--------------|--------------|-------------|
@@ -51,12 +51,3 @@ Wagi zostały obliczone automatycznie metodą **entropii**, co oznacza, że wię
 - VIKOR zasugerował __________ jako kompromisowe rozwiązanie.
 
 Różnice w rankingach wynikają z różnych podejść każdej metody do liczenia "odległości" od idealnych rozwiązań. Wagi obliczone metodą entropii faworyzowały np. moc silnika i cenę.
-
-## ✅ Spełnione wymagania
-- [x] Użycie biblioteki `pymcdm`
-- [x] Zdefiniowana macierz decyzyjna i typy kryteriów
-- [x] Zastosowanie metod TOPSIS i SPOTIS
-- [x] Dodatkowo: VIKOR (dla chętnych)
-- [x] Obliczenie wag metodą entropii
-- [x] Normalizacja danych (min-max)
-- [x] Ranking i analiza wyników
